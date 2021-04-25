@@ -1,0 +1,12 @@
+/home/nagis/opt2/tools/target/release/deps/proconio-ff631cf65d0bce47.rmeta: /home/nagis/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.6/src/lib.rs /home/nagis/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.6/src/marker.rs /home/nagis/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.6/src/read.rs /home/nagis/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.6/src/source/mod.rs /home/nagis/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.6/src/source/line.rs /home/nagis/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.6/src/source/once.rs
+
+/home/nagis/opt2/tools/target/release/deps/libproconio-ff631cf65d0bce47.rlib: /home/nagis/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.6/src/lib.rs /home/nagis/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.6/src/marker.rs /home/nagis/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.6/src/read.rs /home/nagis/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.6/src/source/mod.rs /home/nagis/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.6/src/source/line.rs /home/nagis/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.6/src/source/once.rs
+
+/home/nagis/opt2/tools/target/release/deps/proconio-ff631cf65d0bce47.d: /home/nagis/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.6/src/lib.rs /home/nagis/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.6/src/marker.rs /home/nagis/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.6/src/read.rs /home/nagis/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.6/src/source/mod.rs /home/nagis/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.6/src/source/line.rs /home/nagis/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.6/src/source/once.rs
+
+/home/nagis/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.6/src/lib.rs:
+/home/nagis/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.6/src/marker.rs:
+/home/nagis/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.6/src/read.rs:
+/home/nagis/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.6/src/source/mod.rs:
+/home/nagis/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.6/src/source/line.rs:
+/home/nagis/.cargo/registry/src/github.com-1ecc6299db9ec823/proconio-0.3.6/src/source/once.rs:
